@@ -118,6 +118,9 @@ body {
 		position: absolute;
 		left: 3vw;
 	}
+	
+}
+@media(max-width: 400px){
 	.main-title {
 		position: absolute;
 		top: 414px;
